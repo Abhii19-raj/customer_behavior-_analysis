@@ -1,5 +1,5 @@
 # customer_behavior-_analysis
-Data analytics project showcasing customer behavior analysis using python, sql and power BI
+Data analytics project showcasing customer behavior analysis using python, sql and power BI.
 📊 Customer Shopping Behavior – End-to-End Data Analytics Project
 🔍 Overview
 
@@ -58,17 +58,7 @@ Customer spending distribution
 
 Sales trends
 
-Relationship between demographics and purchases
-
-Used visualizations like:
-
-Bar charts
-
-Histograms
-
-Pie charts
-
-Correlation analysis
+Relationship between demographics and purchases.
 
 4️⃣ SQL Analysis (MySQL Server)
 
