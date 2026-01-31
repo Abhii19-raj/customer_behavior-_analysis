@@ -24,8 +24,7 @@ Transaction information
 
 It is used to understand customer preferences, buying trends, and revenue drivers.
 
-🛠 Tools & Technologies
-Tool	Purpose
+🛠 Tools & Technologies--
 Python (Pandas, Matplotlib, Seaborn)	Data loading, cleaning, and EDA
 MySQL Server	SQL queries for business analysis
 Power BI	Interactive dashboard creation
