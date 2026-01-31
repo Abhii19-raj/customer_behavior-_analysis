@@ -129,39 +129,9 @@ Discovered customer segments with higher spending behavior
 
 Found seasonal trends affecting sales performance
 
-Highlighted opportunities for targeted marketing and promotions
+Highlighted opportunities for targeted marketing and promotions..
 
-▶️ How to Run This Project
-🔹 Python Analysis
-
-Install required libraries:
-
-pip install pandas matplotlib seaborn mysql-connector-python
-
-
-Open the Jupyter Notebook / Python script
-
-Run all cells to perform cleaning and EDA
-
-🔹 SQL Analysis
-
-Import cleaned dataset into MySQL Server
-
-Run the SQL queries provided in the /SQL folder
-
-🔹 Power BI Dashboard
-
-Open the .pbix file in Power BI Desktop
-
-Refresh data if needed
-
-Interact with filters and visuals
-
-🔹 Presentation
-
-Open the Gamma-generated PPT to review the final presentation of insights.
-
-🚀 Project Outcome
+🚀 Project Outcome--
 
 This project showcases skills in:
 
